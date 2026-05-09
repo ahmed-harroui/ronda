@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.partykit.io/schema.json",
   "name": "moroccan-cards",
-  "main": "partykit/index.ts",
+  "main": "partykit/server.ts",
   "compatibilityDate": "2024-01-01"
 }
